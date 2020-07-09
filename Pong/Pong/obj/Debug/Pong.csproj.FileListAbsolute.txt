@@ -1,0 +1,11 @@
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\bin\Debug\Pong.exe
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\bin\Debug\Pong.pdb
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\obj\Debug\Pong.csprojAssemblyReference.cache
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\obj\Debug\Pong.Form1.resources
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\obj\Debug\Pong.exe
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\obj\Debug\Pong.pdb
+D:\Documentos\ProjetoBigMoxiGames\Pong_\Pong\Pong\obj\Debug\Pong.Form2.resources
